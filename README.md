@@ -6,6 +6,6 @@ this is a demo
 NSString
 
 ```
-- [x]你猜
+- [x] 你猜
 - [x]
 - [x] 中间按钮可凸出  			
